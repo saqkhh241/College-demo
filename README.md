@@ -1,4 +1,4 @@
 # College-demo
 This is my new project
 <br>
-Author- Saqib Khan
+Author- Saqib khan
